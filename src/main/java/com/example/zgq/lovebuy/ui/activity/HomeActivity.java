@@ -42,7 +42,6 @@ public class HomeActivity extends AppCompatActivity{
     private ListView drawerLVi;
     private DrawerListviewAdapter drawerAdapter;
 
-
     private DrawerLayout drawerLayout;
     private LinearLayout drawerLv;
     private ActionBarDrawerToggle mDrawerToggle;
@@ -71,7 +70,6 @@ public class HomeActivity extends AppCompatActivity{
         setViewContent();
         getMyFragmentManager();
         initFragments();
-
     }
     private void getMyFragmentManager(){
         fm = getSupportFragmentManager();
@@ -206,7 +204,6 @@ public class HomeActivity extends AppCompatActivity{
             else{
                 finish();
             }
-
             return true;
         }
         return super.onKeyDown(keyCode, event);
