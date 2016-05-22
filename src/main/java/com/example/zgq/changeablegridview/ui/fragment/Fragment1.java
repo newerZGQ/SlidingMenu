@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu.ui.fragment;
+package com.example.zgq.changeablegridview.ui.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.zgq.slidingmenu.R;
+import com.example.zgq.changeablegridview.R;
 
 
 public class Fragment1 extends Fragment {

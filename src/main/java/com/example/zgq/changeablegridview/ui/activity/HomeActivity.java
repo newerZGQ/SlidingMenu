@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu.ui.activity;
+package com.example.zgq.changeablegridview.ui.activity;
 
 import android.content.res.Configuration;
 import android.os.Build;
@@ -21,11 +21,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import com.example.zgq.slidingmenu.R;
-import com.example.zgq.slidingmenu.adapter.DrawerListviewAdapter;
-import com.example.zgq.slidingmenu.ui.fragment.Fragment1;
-import com.example.zgq.slidingmenu.ui.fragment.Fragment2;
-import com.example.zgq.slidingmenu.ui.fragment.Fragment3;
+import com.example.zgq.changeablegridview.R;
+import com.example.zgq.changeablegridview.adapter.DrawerListviewAdapter;
+import com.example.zgq.changeablegridview.ui.fragment.Fragment1;
+import com.example.zgq.changeablegridview.ui.fragment.Fragment2;
+import com.example.zgq.changeablegridview.ui.fragment.Fragment3;
 
 import java.util.ArrayList;
 

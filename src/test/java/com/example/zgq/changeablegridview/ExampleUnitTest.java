@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu;
+package com.example.zgq.changeablegridview;
 
 import org.junit.Test;
 

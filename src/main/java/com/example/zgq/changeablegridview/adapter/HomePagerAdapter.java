@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu.adapter;
+package com.example.zgq.changeablegridview.adapter;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

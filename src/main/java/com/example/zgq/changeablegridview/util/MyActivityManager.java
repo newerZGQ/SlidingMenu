@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu.util;
+package com.example.zgq.changeablegridview.util;
 
 import android.app.Activity;
 

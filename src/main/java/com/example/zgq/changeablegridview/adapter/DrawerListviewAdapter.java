@@ -1,4 +1,4 @@
-package com.example.zgq.slidingmenu.adapter;
+package com.example.zgq.changeablegridview.adapter;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.example.zgq.slidingmenu.R;
+import com.example.zgq.changeablegridview.R;
 
 import java.util.ArrayList;
 
