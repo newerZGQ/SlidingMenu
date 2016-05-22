@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.ui.fragment;
+package com.example.zgq.slidingmenu.ui.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,10 +6,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.zgq.lovebuy.R;
+import com.example.zgq.slidingmenu.R;
 
 
-public class Fragment3 extends Fragment {
+public class Fragment1 extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
@@ -28,8 +28,8 @@ public class Fragment3 extends Fragment {
      * @return A new instance of fragment Fragment2.
      */
     // TODO: Rename and change types and number of parameters
-    public static Fragment3 newInstance(String param1, String param2) {
-        Fragment3 fragment = new Fragment3();
+    public static Fragment1 newInstance(String param1, String param2) {
+        Fragment1 fragment = new Fragment1();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -37,7 +37,7 @@ public class Fragment3 extends Fragment {
         return fragment;
     }
 
-    public Fragment3() {
+    public Fragment1() {
         // Required empty public constructor
     }
 
@@ -54,7 +54,7 @@ public class Fragment3 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view = inflater.inflate(R.layout.activity_home_fragment_desire, container, false);
+        View view = inflater.inflate(R.layout.activity_home_fragment_last_consum, container, false);
         return view;
     }
 

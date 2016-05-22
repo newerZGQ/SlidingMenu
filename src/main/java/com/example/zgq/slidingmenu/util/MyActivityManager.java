@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.util;
+package com.example.zgq.slidingmenu.util;
 
 import android.app.Activity;
 

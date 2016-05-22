@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy;
+package com.example.zgq.slidingmenu;
 
 import org.junit.Test;
 

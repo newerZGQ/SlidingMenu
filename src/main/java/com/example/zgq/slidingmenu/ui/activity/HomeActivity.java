@@ -1,7 +1,6 @@
-package com.example.zgq.lovebuy.ui.activity;
+package com.example.zgq.slidingmenu.ui.activity;
 
 import android.content.res.Configuration;
-import android.net.Uri;
 import android.os.Build;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -22,11 +21,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import com.example.zgq.lovebuy.R;
-import com.example.zgq.lovebuy.adapter.DrawerListviewAdapter;
-import com.example.zgq.lovebuy.ui.fragment.Fragment1;
-import com.example.zgq.lovebuy.ui.fragment.Fragment2;
-import com.example.zgq.lovebuy.ui.fragment.Fragment3;
+import com.example.zgq.slidingmenu.R;
+import com.example.zgq.slidingmenu.adapter.DrawerListviewAdapter;
+import com.example.zgq.slidingmenu.ui.fragment.Fragment1;
+import com.example.zgq.slidingmenu.ui.fragment.Fragment2;
+import com.example.zgq.slidingmenu.ui.fragment.Fragment3;
 
 import java.util.ArrayList;
 
